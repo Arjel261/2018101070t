@@ -1,0 +1,85 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0 auto;
+  min-width: 1000px;
+  max-width: 1400px;
+  line-height: 20px;
+
+}
+
+/* Layout */
+
+section {
+  float: left;
+  width: 50%;
+  word-spacing: 10px;
+}
+
+aside {
+  float: left;
+  width: 30%;
+  line-height: 25px;
+}
+
+nav {
+  float: left;
+  width: 20%;
+}
+
+footer {
+  clear: both;
+}
+
+header, section, aside, nav, footer {
+  padding: 20px;
+  font-family: verdana, sans-serif;
+  
+}
+
+/* header and footer */
+
+header, footer {
+  border-top: 5px solid #a66;
+  border-bottom: 5px solid #a66;
+  text-align: center;
+}
+
+/* WRITE YOUR CODE BELOW HERE */
+
+header, section, aside, footer {
+	text-indent: 30px;
+}
+
+
+
+.nav li {
+    list-style: none;
+    text-align: center;
+    border-style: solid;
+    padding: 10px;
+    font-size: 20px;
+    color: hotpink;
+  
+
+  }
+
+ .nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+ 
+
+}
+
+.nav a{
+  text-decoration: none;
+  color:hotpink;
+}
+
+a{
+	color: hotpink;
+}
+
+

@@ -1,0 +1,4 @@
+[1020/105303.131:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1020/110303.134:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1020/110303.134:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\ArjemarkLaurin\AppData\Local\Google\Chrome\User Data\Crashpad\reports\e9f5335d-e071-4bb3-a38d-18be4583c41b.dmp: The system cannot find the file specified. (0x2)
+[1020/110303.134:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
